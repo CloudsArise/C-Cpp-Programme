@@ -7,6 +7,7 @@ This repository is used to store my daily notes.
 ___粗斜体___
 
 *************
+
 &#160; &#160; &#160; &#160;测试一下缩进
 名称 | 价格
 ---- | ---
@@ -30,4 +31,4 @@ int main(void)
   return 0;
 }
 ```
-<u>添加下划线<\u>
+<u>添加下划线</u>
